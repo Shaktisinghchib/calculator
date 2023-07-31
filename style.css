@@ -1,0 +1,25 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    width: 4vw;
+    height: 7vh;
+    cursor: pointer;
+    
+}
+.btn{
+    width: 8vw;
+}
+.input{
+    padding: .9rem;
+    width: 172px;
+    border: 2px solid black;
+}
+.color{
+    background-color: rgba(26, 9, 2, 0.583);
+}
